@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+make keebio/nyquist/rev3:nvd
+make keebio/nyquist/rev3:nvd_slim
+make keebio/iris/rev4:nvd
