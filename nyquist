@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+make keebio/nyquist/rev3:nvd

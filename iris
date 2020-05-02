@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+make keebio/iris/rev4:nvd
